@@ -2,14 +2,14 @@
 
 ### Web Developer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]()                                                 
+- 🔭 Here's my portfolio                                               
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on React Projescts
 - 🤔 I’m looking for help with Placements in Full Stack Developer 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/__.prxkxsh._) 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/indu-prakash-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<br /> <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />(https://instagram.com/__.prxkxsh._)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/indu-prakash-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
